@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<podaci>
+  <student>
+    <Ime>Dzana</Ime>
+    <Prezime>Hanic</Prezime>
+    <Godina>1995</Godina>
+    <Mjesec>12</Mjesec>
+    <Dan>27</Dan>
+    <Maticni>2712995123654</Maticni>
+    <GodinaZ>2014</GodinaZ>
+    <MjesecZ>10</MjesecZ>
+    <DanZ>10</DanZ>
+  </student>
+</podaci>

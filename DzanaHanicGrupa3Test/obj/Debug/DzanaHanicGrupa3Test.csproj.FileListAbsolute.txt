@@ -1,0 +1,7 @@
+C:\Users\XMAN\Desktop\VVS\DzanaHanicGrupa3\DzanaHanicGrupa3Test\bin\Debug\DzanaHanicGrupa3Test.dll
+C:\Users\XMAN\Desktop\VVS\DzanaHanicGrupa3\DzanaHanicGrupa3Test\bin\Debug\DzanaHanicGrupa3Test.pdb
+C:\Users\XMAN\Desktop\VVS\DzanaHanicGrupa3\DzanaHanicGrupa3Test\obj\Debug\DzanaHanicGrupa3Test.csprojResolveAssemblyReference.cache
+C:\Users\XMAN\Desktop\VVS\DzanaHanicGrupa3\DzanaHanicGrupa3Test\obj\Debug\DzanaHanicGrupa3Test.dll
+C:\Users\XMAN\Desktop\VVS\DzanaHanicGrupa3\DzanaHanicGrupa3Test\obj\Debug\DzanaHanicGrupa3Test.pdb
+C:\Users\XMAN\Desktop\VVS\DzanaHanicGrupa3\DzanaHanicGrupa3Test\bin\Debug\DzanaHanicGrupaa3.dll
+C:\Users\XMAN\Desktop\VVS\DzanaHanicGrupa3\DzanaHanicGrupa3Test\bin\Debug\DzanaHanicGrupaa3.pdb

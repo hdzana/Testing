@@ -1,0 +1,4 @@
+C:\Users\XMAN\Desktop\VVS\DzanaHanicGrupa3\DzanaHanicGrupaa3\bin\Debug\DzanaHanicGrupaa3.dll
+C:\Users\XMAN\Desktop\VVS\DzanaHanicGrupa3\DzanaHanicGrupaa3\bin\Debug\DzanaHanicGrupaa3.pdb
+C:\Users\XMAN\Desktop\VVS\DzanaHanicGrupa3\DzanaHanicGrupaa3\obj\Debug\DzanaHanicGrupaa3.dll
+C:\Users\XMAN\Desktop\VVS\DzanaHanicGrupa3\DzanaHanicGrupaa3\obj\Debug\DzanaHanicGrupaa3.pdb

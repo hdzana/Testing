@@ -1,0 +1,9 @@
+C:\Users\XMAN\Desktop\ETF3\VVS\DzanaHanicGrupa3\Zadatak4\bin\Debug\data.csv
+C:\Users\XMAN\Desktop\ETF3\VVS\DzanaHanicGrupa3\Zadatak4\bin\Debug\Zadatak4.dll
+C:\Users\XMAN\Desktop\ETF3\VVS\DzanaHanicGrupa3\Zadatak4\bin\Debug\Zadatak4.pdb
+C:\Users\XMAN\Desktop\ETF3\VVS\DzanaHanicGrupa3\Zadatak4\bin\Debug\DzanaHanicGrupaa3.dll
+C:\Users\XMAN\Desktop\ETF3\VVS\DzanaHanicGrupa3\Zadatak4\bin\Debug\DzanaHanicGrupaa3.pdb
+C:\Users\XMAN\Desktop\ETF3\VVS\DzanaHanicGrupa3\Zadatak4\obj\Debug\Zadatak4.csprojResolveAssemblyReference.cache
+C:\Users\XMAN\Desktop\ETF3\VVS\DzanaHanicGrupa3\Zadatak4\obj\Debug\Zadatak4.dll
+C:\Users\XMAN\Desktop\ETF3\VVS\DzanaHanicGrupa3\Zadatak4\obj\Debug\Zadatak4.pdb
+C:\Users\XMAN\Desktop\ETF3\VVS\DzanaHanicGrupa3\Zadatak4\bin\Debug\podaci.xml
